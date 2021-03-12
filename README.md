@@ -7,3 +7,7 @@ it also lets you load videos w ads, which you cant do on youtube in browser
 
 
 weirdly though, it refuses to load on Devkit, i dont know why. testkit and retail work fine thou.
+
+
+ld-preload/ is LD-PRELOAD.SUPRX which i wrote some assembly code at the bottom of the EBOOT.BIN to make the app load at startup,
+and forcemount/ is PRELOAD.SKPRX.
