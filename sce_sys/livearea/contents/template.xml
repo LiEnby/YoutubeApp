@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="a3" format-ver="01.01" content-rev="1">
+	
+	<livearea-background>
+		<image>labg.png</image>
+	</livearea-background>
+	
+	<gate>
+		<startup-image>gate.png</startup-image>
+	</gate>
+
+
+	
+</livearea>
+
