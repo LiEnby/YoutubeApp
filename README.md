@@ -1,8 +1,8 @@
 # YoutubeApp
 Hacked this together awhile ago- but it was never released,
 
-there was an app on PSN that had a webbrowser in it, which has better HTML Video support than the offical one-
-so i decided to see if it could load youtube, after changing user agents alot i found it works on longer videos than just 2 hours
+there was an app on PSN (PCSC80021) that had a webbrowser in it, which has better HTML Video support than the offical one-
+so i (and a few others on CBPS..) tried to see if it could load youtube, after changing user agents alot i found it works on longer videos than just 2 hours
 it also lets you load videos w ads, which you cant do on youtube in browser
 
 
